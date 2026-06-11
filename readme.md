@@ -8,6 +8,14 @@ Sponsored by [The Next AI Directory](https://thenextaidirectory.com)
 
 ---
 
+# NeuroNest AI Development Workflow Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI development workflow tool built to help developers complete software tasks with better speed, quality, and organization. It supports coding, debugging, testing, security review, DevOps automation, and research, making it useful for teams that want a smarter way to manage AI-assisted development.
+
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
 | [Next AI Tool (Featured)](https://nextaitool.com?ref=thenextaidirectory.com) | 37 | The best new AI tools, every day |
